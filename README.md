@@ -1,2 +1,2 @@
-# PostEx
-스프링부트Post예제
+# Flutter Nexflix Clone Coding
+Flutter Nexflix Clone Coding
